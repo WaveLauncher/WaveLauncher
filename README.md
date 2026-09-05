@@ -6,7 +6,7 @@
 
 **A controller-first Android launcher inspired by the PlayStation 3 XrossMediaBar.**
 
-<a href="https://github.com/WaveLauncher/DEV-WaveLauncher/releases">
+<a href="https://github.com/WaveLauncher/WaveLauncher/releases">
   <img src="https://img.shields.io/badge/download-releases-085e5e?style=for-the-badge&labelColor=black" alt="Downloads">
 </a>
 <a href="https://discord.gg/g9mJ9vwx">
@@ -77,7 +77,7 @@ Wave Launcher is an Android-based interface built around the design of the Xross
 
 ## Install & Updates
 
-Download the latest APK from the [Releases page](https://github.com/WaveLauncher/DEV-WaveLauncher/releases/latest) and install it on your Android device. For future updates, open **Settings 🠊 Software Update** in the app. The updater can check for and install new Wave Launcher releases, while also helping you import supported software sources and install or update emulators via your own Obtainium JSON or the RJNY Emulation Pack.
+Download the latest APK from the [Releases page](https://github.com/WaveLauncher/WaveLauncher/releases/latest) and install it on your Android device. For future updates, open **Settings 🠊 Software Update** in the app. The updater can check for and install new Wave Launcher releases, while also helping you import supported software sources and install or update emulators via your own Obtainium JSON or the RJNY Emulation Pack.
 
 ## Features
 
