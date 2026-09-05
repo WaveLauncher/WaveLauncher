@@ -6,18 +6,16 @@
 
 **A controller-first Android launcher inspired by the PlayStation 3 XrossMediaBar.**
 
-<a href="https://github.com/WaveLauncher/WaveLauncher/releases">
-  <img src="https://img.shields.io/badge/download-releases-085e5e?style=for-the-badge&labelColor=black" alt="Downloads">
-</a>
-<a href="https://discord.gg/g9mJ9vwx">
-  <img src="https://img.shields.io/discord/1494750423297560606?label=discord&logo=discord&logoColor=white&style=for-the-badge&color=5865F2&labelColor=black" alt="Discord">
-</a>
-<a href="https://www.patreon.com/cw/WaveLauncher">
-  <img src="https://img.shields.io/badge/support%20us-patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white&labelColor=black" alt="Patreon">
-</a>
-<a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https%3A%2F%2Fgithub.com%2FWaveLauncher%2FWaveLauncher">
-  <img src="https://img.shields.io/badge/obtainium-add-6238b4?style=for-the-badge&logo=obtainium&logoColor=white&labelColor=black" alt="Add to Obtainium">
-</a>
+<div align="center">
+
+<h3>A controller-first Android launcher inspired by the PlayStation 3 XrossMediaBar.</h3>
+
+<p>
+<a href="https://github.com/WaveLauncher/WaveLauncher/releases"><img src="https://img.shields.io/badge/download-releases-085e5e?style=for-the-badge&labelColor=black" alt="Downloads"></a>&nbsp;
+<a href="https://discord.gg/g9mJ9vwx"><img src="https://img.shields.io/discord/1494750423297560606?label=discord&logo=discord&logoColor=white&style=for-the-badge&color=5865F2&labelColor=black" alt="Discord"></a>&nbsp;
+<a href="https://www.patreon.com/cw/WaveLauncher"><img src="https://img.shields.io/badge/support%20us-patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white&labelColor=black" alt="Patreon"></a>&nbsp;
+<a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https%3A%2F%2Fgithub.com%2FWaveLauncher%2FWaveLauncher"><img src="https://img.shields.io/badge/obtainium-add-6238b4?style=for-the-badge&logo=obtainium&logoColor=white&labelColor=black" alt="Add to Obtainium"></a>
+</p>
 
 </div>
 
@@ -37,19 +35,19 @@ Wave Launcher is an Android-based interface built around the design of the Xross
     <td align="center" width="50%">
       <img src="README/home.png" alt="Wave Launcher home screen" width="100%">
       <br><strong>Home & Libraries</strong>
-      <br><sub>Start with a clean library, then make Wave Launcher your own with collections, favorites, playtime, and personalized layouts.</sub>
+      <br><sub>Enjoy your library, with collections, favorites, playtime tracking and your very own layout.</sub>
     </td>
     <td align="center" width="50%">
       <img src="README/scraper.png" alt="Metadata scraper" width="100%">
       <br><strong>Metadata Scraping</strong>
-      <br><sub>Give every game more character with artwork, descriptions, covers, sounds, and details from multiple sources.</sub>
+      <br><sub>Scrape artwork, descriptions, covers, sounds, and more from multiple sources.</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="README/retroachievements.png" alt="RetroAchievements integration" width="100%">
       <br><strong>Achievements</strong>
-      <br><sub>Keep your progress close at hand and turn every session into another step toward your next achievement.</sub>
+      <br><sub>Track your progress on your trophy-hunting journey easily.</sub>
     </td>
     <td align="center">
       <img src="README/change_color.png" alt="Wallpaper color customization" width="100%">
@@ -61,27 +59,29 @@ Wave Launcher is an Android-based interface built around the design of the Xross
     <td align="center">
       <img src="README/settings.png" alt="Wave Launcher settings" width="100%">
       <br><strong>Settings</strong>
-      <br><sub>Fine-tune your setup, connect your libraries, choose your integrations, and keep control of how Wave Launcher behaves.</sub>
+      <br><sub>Fine-tune your setup, connect your accounts, and keep control of how Wave Launcher behaves, to match YOU.</sub>
     </td>
     <td align="center">
       <img src="README/software_update.png" alt="Software Updater" width="100%">
       <br><strong>Software Updater</strong>
-      <br><sub>Keep Wave Launcher current, import supported software sources, and set up standard or dual-screen emulation packs from one place.</sub>
+      <br><sub>Keep Wave Launcher updated, import from Obtainium, and download the standard or dual-screen RJNY emulation packs.</sub>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
       <img src="README/video-player.png" alt="Video player" width="50%">
       <br><strong>Media</strong>
-      <br><sub>Enjoy your videos, music, and photos with controller-friendly playback that fits naturally into your launcher.</sub>
+      <br><sub>Enjoy your videos, music, and photos with controller-friendly playback that fits perfectly into XMB.</sub>
     </td>
   </tr>
 </table>
 
+<div align="left">
+
 ## Install & Updates
 
 Download the latest APK from the [Releases page](https://github.com/WaveLauncher/WaveLauncher/releases/latest) and install it on your Android device. For future updates, open **Settings 🠊 Software Update** in the app. The updater can check for and install new Wave Launcher releases, while also helping you import supported software sources and install or update emulators via your own Obtainium JSON or the RJNY Emulation Pack.
-
+  
 ## Features
 
 ### Controller & Navigation
@@ -93,7 +93,8 @@ Download the latest APK from the [Releases page](https://github.com/WaveLauncher
 
 ### Game Libraries
 
-- Organize platforms, collections, favorites, recently played games, and playtime.
+- Organize platforms, collections, favorites, recently played games.
+- Connect multiple cards, storage mediums and directories, and hotswap between them.
 - Storage labels, icons, hot-swap support, and external-storage autorun.inf support.
 - Per-platform and per-game emulator assignments.
 
