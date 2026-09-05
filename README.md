@@ -6,10 +6,6 @@
 
 **A controller-first Android launcher inspired by the PlayStation 3 XrossMediaBar.**
 
-<div align="center">
-
-<h3>A controller-first Android launcher inspired by the PlayStation 3 XrossMediaBar.</h3>
-
 <p>
 <a href="https://github.com/WaveLauncher/WaveLauncher/releases"><img src="https://img.shields.io/badge/download-releases-085e5e?style=for-the-badge&labelColor=black" alt="Downloads"></a>&nbsp;
 <a href="https://discord.gg/g9mJ9vwx"><img src="https://img.shields.io/discord/1494750423297560606?label=discord&logo=discord&logoColor=white&style=for-the-badge&color=5865F2&labelColor=black" alt="Discord"></a>&nbsp;
