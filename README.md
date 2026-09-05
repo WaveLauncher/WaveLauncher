@@ -1,142 +1,125 @@
-<p align="center">
-  <img src="assets/wave_icon_animated.gif" alt="WaveLauncher" width="200" />
-</p>
+<div align="center">
 
-<h1 align="center">WaveLauncher</h1>
+<img src="README/title.png" alt="Wave Launcher" width="460">
 
+# Wave Launcher
 
-<p align="center"><i>Wave Launcher is an Android-based interface built around the design of the XrossMediaBar (XMB/PS3). It supports personal game libraries, rich metadata scraping, trophy tracking, multimedia playback, and an accurate recreation of XMB.</i></p>
+**A controller-first Android launcher inspired by the PlayStation 3 XrossMediaBar.**
 
-<p align="center">
-  <img src="assets/home.png" alt="WaveLauncher home screen" width="90%" />
-</p>
-<p align="center">
-  <a href="https://github.com/WaveLauncher/WaveLauncher/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/WaveLauncher/WaveLauncher?style=for-the-badge&label=Release" /></a>
-  <a href="https://github.com/WaveLauncher/WaveLauncher/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/WaveLauncher/WaveLauncher/total?style=for-the-badge&label=Downloads" /></a>
-  <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https%3A%2F%2Fgithub.com%2FWaveLauncher%2FWaveLauncher"><img alt="Add to Obtainium" src="https://img.shields.io/badge/Obtainium-Add%20App-1F2937?style=for-the-badge&logo=android&logoColor=white" /></a>
-  <a href="https://discord.gg/AFhRYrrUne"><img alt="Discord" src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://patreon.com/c/WaveLauncher/"><img alt="Patreon" src="https://img.shields.io/badge/Patreon-Support-FF424D?style=for-the-badge&logo=patreon&logoColor=white" /></a>
-</p>
+<a href="https://github.com/WaveLauncher/DEV-WaveLauncher/releases">
+  <img src="https://img.shields.io/badge/download-releases-085e5e?style=for-the-badge&labelColor=black" alt="Downloads">
+</a>
+<a href="https://discord.gg/g9mJ9vwx">
+  <img src="https://img.shields.io/discord/1494750423297560606?label=discord&logo=discord&logoColor=white&style=for-the-badge&color=5865F2&labelColor=black" alt="Discord">
+</a>
+<a href="https://www.patreon.com/cw/WaveLauncher">
+  <img src="https://img.shields.io/badge/support%20us-patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white&labelColor=black" alt="Patreon">
+</a>
 
-<p align="center">
-  <a href="https://discord.gg/AFhRYrrUne">Discord</a> ·
-  <a href="https://github.com/WaveLauncher/WaveLauncher/releases/latest">Download</a> ·
-  <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https%3A%2F%2Fgithub.com%2FWaveLauncher%2FWaveLauncher">Obtainium</a> ·
-  <a href="https://patreon.com/c/WaveLauncher/">Patreon</a> ·
-  <a href="https://github.com/WaveLauncher/WaveLauncher/wiki">Wiki</a>
-</p>
+</div>
 
 ---
 
 ## About
 
-WaveLauncher is an Android launcher for retro gaming handhelds. It focuses on gamepad-first navigation, a PlayStation 3 inspired interface, and first-class support for dual-screen devices. It scrapes game assets from many sources, tracks playtime and achievements, and lets you theme almost every surface of the interface.
+Wave Launcher is an Android-based interface built around the design of the XrossMediaBar (XMB/PS3). It supports personal game libraries, rich metadata scraping, trophy tracking and controller-friendly multimedia playback.
 
-> [!WARNING]
-> WaveLauncher is a **frontend**, not an emulator. You still need to install and configure the emulators you want to use.
+> [!NOTE]
+> Wave Launcher is a **frontend**, not an emulator. Install and configure the emulators you want to use separately.
 
 ## Showcase
 
-<p align="center">
-  <img src="assets/scraper.png" alt="Scraper" width="45%" />
-  <img src="assets/settings.png" alt="Settings" width="45%" />
-</p>
-<p align="center">
-  <img src="assets/retroachievements.png" alt="RetroAchievements" width="45%" />
-  <img src="assets/video-player.png" alt="Video player" width="45%" />
-</p>
-<p align="center">
-  <img src="assets/software_update.png" alt="Video player" width="45%" />
-  <img src="assets/change_color.png" alt="Wallpaper color customization" width="45%" />
-</p>
-
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="README/home.png" alt="Wave Launcher home screen" width="100%">
+      <br><strong>Home & Libraries</strong>
+      <br><sub>Start with a clean library, then make Wave Launcher your own with collections, favorites, playtime, and personalized layouts.</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="README/scraper.png" alt="Metadata scraper" width="100%">
+      <br><strong>Metadata Scraping</strong>
+      <br><sub>Give every game more character with artwork, descriptions, covers, sounds, and details from multiple sources.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="README/retroachievements.png" alt="RetroAchievements integration" width="100%">
+      <br><strong>Achievements</strong>
+      <br><sub>Keep your progress close at hand and turn every session into another step toward your next achievement.</sub>
+    </td>
+    <td align="center">
+      <img src="README/change_color.png" alt="Wallpaper color customization" width="100%">
+      <br><strong>Customization</strong>
+      <br><sub>Shape the look and feel of your launcher with custom wallpapers, colors, fonts, sounds, and interface scale.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="README/settings.png" alt="Wave Launcher settings" width="100%">
+      <br><strong>Settings</strong>
+      <br><sub>Fine-tune your setup, connect your libraries, choose your integrations, and keep control of how Wave Launcher behaves.</sub>
+    </td>
+    <td align="center">
+      <img src="README/software_update.png" alt="Software Updater" width="100%">
+      <br><strong>Software Updater</strong>
+      <br><sub>Keep Wave Launcher current, import supported software sources, and set up standard or dual-screen emulation packs from one place.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="README/video-player.png" alt="Video player" width="50%">
+      <br><strong>Media</strong>
+      <br><sub>Enjoy your videos, music, and photos with controller-friendly playback that fits naturally into your launcher.</sub>
+    </td>
+  </tr>
+</table>
 
 ## Install & Updates
 
-- **Manual APK (recommended).** Download the latest APK from the [Releases page](https://github.com/WaveLauncher/WaveLauncher/releases/latest) and install it. After the first install, the built-in in-app updater keeps WaveLauncher up to date and accepts Obtainium JSON imports.
-- **Obtainium.** Tap the button below. Obtainium tracks releases from this repo and installs updates for you.
-
-<p align="center">
-  <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https%3A%2F%2Fgithub.com%2FWaveLauncher%2FWaveLauncher"><img alt="Add to Obtainium" src="https://img.shields.io/badge/Obtainium-Add%20App-1F2937?style=for-the-badge&logo=android&logoColor=white" /></a>
-</p>
+Download the latest APK from the [Releases page](https://github.com/WaveLauncher/DEV-WaveLauncher/releases/latest) and install it on your Android device. For future updates, open **Settings 🠊 Software Update** in the app. The updater can check for and install new Wave Launcher releases, while also helping you import supported software sources and install or update emulators via your own Obtainium JSON or the RJNY Emulation Pack.
 
 ## Features
 
-### Controller & Input
-- Full gamepad support across the entire interface for controller-friendly navigation.
-- Touch support (not fully finished).
-- Xbox, PlayStation, and Nintendo controllers with type-specific UI and prompts.
-- Customizable button layouts, including AB / XY swap.
-- On-screen virtual controller for users without a physical pad or for phone-based control.
-- Full on-screen keyboard with complete gamepad navigation in a PlayStation 3 style.
+### Controller & Navigation
 
-### Game Management & Organization
-- Collections, recently played, and favorites.
-- Automatic playtime tracking per game.
-- Seamless switching between storages and microSD cards with hotswap support.
-- Automatic game filtering that shows or hides titles based on the current card, with deduplication.
-- Storage icon and label display, including autorun support for external storage.
-- Fine-tuned emulator selection with per-platform and per-game overrides.
+- XMB-style navigation designed around gamepads and touch.
+- Support for PlayStation, Xbox, Nintendo, and virtual controllers.
+- Controller-specific prompts, customizable button layouts, AB / XY swapping, and a gamepad-friendly on-screen keyboard.
+- On-Screen Controller for devices that do not have a physical controller.
 
-### Game Asset Scraping
-- Multi-source scraping from SteamGridDB, ScreenScraper, RetroAchievements, Google Play, Web, and Hasheous.
-- Direct asset scraping from real PSP, PS3, and PSP Minis sources.
-- Extended asset scraping for donors, including NDS, 3DS, DSi, and DSiWare.
-- Multi-language scraper support (English, German, French, Spanish, Italian, Portuguese, Dutch, Japanese, Korean, Russian, and Chinese).
-- Independent app and scraper language settings. Unsupported scraper languages fall back to English safely.
-- Free sound scraping for all platforms via direct game assets.
-- Download custom jingles from GitHub for extra sound sources.
-- User avatar customization with a one-time sync button for RetroAchievements and Discord.
-- Image cropping tool in the scraper.
+### Game Libraries
 
-### Media (Video, Music, Photo)
-- Full video player with complete controller support and audio / subtitle track selection (modernized PS3 style).
-- Full music player with background playback (modernized PS3 style).
-- Built-in photo gallery viewer with slideshow support (modernized PS3 style).
-- Custom sound system, including coldboot sounds and custom UI effects.
-- Individual volume controls for every sound element.
+- Organize platforms, collections, favorites, recently played games, and playtime.
+- Storage labels, icons, hot-swap support, and external-storage autorun.inf support.
+- Per-platform and per-game emulator assignments.
 
-### Interface & Customization
-- Personalized color schemes for the Wave wallpaper.
-- Multiple wallpaper options and styles (Original, Classic, Custom, System).
-- Adjustable wallpaper brightness with background brightness control.
-- Font customization across the entire UI.
-- Adjustable interface scaling for different screen sizes.
-- Independent text size adjustment for better readability.
-- Customizable status bar appearance and behavior.
-- Choose your preferred date and time format for the status bar.
-- PlayStation 3 toast overlays (unused for now, reserved for real-time trophies).
-- Boot logo customization with styles from PS3, Wave, GammaOS, Android, AYN, Retroid Pocket, and Anbernic.
+### Scraping & Achievements
 
-### System & Connectivity
-- Built-in FTP support.
-- Wave Portal: a web interface to change wallpaper, colors, and manage scraped games from a browser (experimental).
-- Discord Rich Presence with a custom icon per game (uses the cover URL from the scraper).
-- Automatic app updates with Obtainium JSON import via the built-in software updater.
-- Built-in importer for the Obtainium emulation pack.
-- Full support for dual-screen devices. Choose secondary apps that launch with your apps, pick which screen an app opens on, swap screens, and more.
-- Per-screen orientation settings for flexible display control.
-- Automatic single-screen mode when docked, with screen unswapping.
+- Game Metadata scraping through services including [SteamGridDB](https://www.steamgriddb.com/), [ScreenScraper](https://www.screenscraper.fr/), [RetroAchievements](https://retroachievements.org/), [Hasheous](https://hasheous.org/), Google Play, and Web Search.
+- Multi-language scraper support.
+- RetroAchievements and Dusklight (TwilitRealm) achievement tracking.
 
-### Android Integration
-- Reliable separation of Games, Emulators, and Apps in the Android section.
-- Multi-language app support (English, German, French, Spanish, Italian, Portuguese, Turkish, Dutch, Japanese, Korean, Russian, and Chinese).
-- Migration from other launchers (in development, planned after 1.0).
+### Media & Customization
 
-### Achievements & Progress
-- Achievement tracking via RetroAchievements.
-- Dusklight (Twilitrealm) achievements support.
+- Controller-friendly video, music, and photo playback.
+- Background music, coldboot sounds, and separate volume controls.
+- Wallpaper styles, color customization, brightness controls, and custom fonts.
+- Interface scaling, text sizing, status bar options, boot logos, and custom UI sounds.
 
-### Setup & Configuration
-- Quick first-run setup with an easy initial configuration process.
-- Custom paths with existing file detection. On install you choose to delete or keep the found files.
-- Easy game library configuration with a game directory setup step.
+### Device Integration
 
-## Acknowledgments
+- Dual-screen layouts with per-screen orientation, app placement, screen swapping, and docked mode.
+- Android app discovery with clear separation between games, emulators, and apps.
+- Encrypted FTPS file sharing for moving files to and from a device.
+- HTTPS Wave Portal for managing supported launcher content from a browser (experimental).
+- Quick first-run setup, custom paths, and existing-file detection.
 
-WaveLauncher builds on the work of many people and services.
 
-- Asset and metadata sources: [SteamGridDB](https://www.steamgriddb.com/), [ScreenScraper](https://www.screenscraper.fr/), [RetroAchievements](https://retroachievements.org/), [Hasheous](https://hasheous.org/), and Google Play.
-- Inspiration from the wider retro launcher community.
-- Thanks to the donors and testers who make each release possible.
+### Metadata Sources
 
+[SteamGridDB](https://www.steamgriddb.com/) · [ScreenScraper](https://www.screenscraper.fr/) · [RetroAchievements](https://retroachievements.org/) · [Hasheous](https://hasheous.org/) · [Google Play](https://play.google.com/)
+
+### Open Source Foundations
+
+[FFmpeg](https://ffmpeg.org/) · [AndroidX](https://developer.android.com/jetpack/androidx) · [LGPL-2.1](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) · [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
