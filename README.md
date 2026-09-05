@@ -15,6 +15,9 @@
 <a href="https://www.patreon.com/cw/WaveLauncher">
   <img src="https://img.shields.io/badge/support%20us-patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white&labelColor=black" alt="Patreon">
 </a>
+<a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https%3A%2F%2Fgithub.com%2FWaveLauncher%2FWaveLauncher">
+  <img src="https://img.shields.io/badge/obtainium-add-6238b4?style=for-the-badge&logo=obtainium&logoColor=white&labelColor=black" alt="Add to Obtainium">
+</a>
 
 </div>
 
