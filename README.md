@@ -8,7 +8,7 @@
 
 <p>
 <a href="https://github.com/WaveLauncher/WaveLauncher/releases"><img src="https://img.shields.io/badge/download-releases-085e5e?style=for-the-badge&labelColor=black" alt="Downloads"></a>&nbsp;
-<a href="https://discord.gg/g9mJ9vwx"><img src="https://img.shields.io/discord/1494750423297560606?label=discord&logo=discord&logoColor=white&style=for-the-badge&color=5865F2&labelColor=black" alt="Discord"></a>&nbsp;
+<a href="https://discord.gg/AFhRYrrUne"><img src="https://img.shields.io/discord/1494750423297560606?label=discord&logo=discord&logoColor=white&style=for-the-badge&color=5865F2&labelColor=black" alt="Discord"></a>&nbsp;
 <a href="https://www.patreon.com/cw/WaveLauncher"><img src="https://img.shields.io/badge/support%20us-patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white&labelColor=black" alt="Patreon"></a>&nbsp;
 <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https%3A%2F%2Fgithub.com%2FWaveLauncher%2FWaveLauncher"><img src="https://img.shields.io/badge/obtainium-add-6238b4?style=for-the-badge&logo=obtainium&logoColor=white&labelColor=black" alt="Add to Obtainium"></a>
 </p>
