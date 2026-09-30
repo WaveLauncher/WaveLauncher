@@ -82,7 +82,7 @@ Wave Launcher is an Android-based interface built around the design of the Xross
 
 ## Install & Updates
 
-Download the latest APK from the [Releases page](https://github.com/WaveLauncher/WaveLauncher/releases/latest) and install it on your Android device. For future updates, open **Settings ?? Software Update** in the app. The updater can check for and install new Wave Launcher releases, while also helping you import supported software sources and install or update emulators via your own Obtainium JSON or the RJNY Emulation Pack.
+Download the latest APK from the [Releases page](https://github.com/WaveLauncher/WaveLauncher/releases/latest) and install it on your Android device. For future updates, open **Settings 馃〔 Software Update** in the app. The updater can check for and install new Wave Launcher releases, while also helping you import supported software sources and install or update emulators via your own Obtainium JSON or the RJNY Emulation Pack.
   
 ## Features
 
@@ -124,9 +124,8 @@ Download the latest APK from the [Releases page](https://github.com/WaveLauncher
 
 ### Metadata Sources
 
-[SteamGridDB](https://www.steamgriddb.com/) · [ScreenScraper](https://www.screenscraper.fr/) · [RetroAchievements](https://retroachievements.org/) · [Hasheous](https://hasheous.org/) · [Google Play](https://play.google.com/)
+[SteamGridDB](https://www.steamgriddb.com/) 路 [ScreenScraper](https://www.screenscraper.fr/) 路 [RetroAchievements](https://retroachievements.org/) 路 [Hasheous](https://hasheous.org/) 路 [Google Play](https://play.google.com/)
 
-### Open Source Foundations
 ### Third-Party Licenses
 
 Wave Launcher is not open source and is not released under the LGPL. This repository is public, but no open-source license is granted for the Wave Launcher application itself.
