@@ -65,16 +65,13 @@ Wave Launcher is an Android-based interface built around the design of the Xross
   </tr>
 
   <tr>
-    <td align="center" colspan="2">
-      <img src="README/activity_overview.png" alt="Activity overview" width="75%">
+    <td align="center">
+      <img src="README/activity_overview.png" alt="Activity overview" width="100%">
       <br><strong>Activity Overview</strong>
       <br><sub>Understand your playtime with session summaries, game breakdowns, weekly activity, and streak tracking.</sub>
     </td>
-  </tr>
-
-  <tr>
-    <td align="center" colspan="2">
-      <img src="README/video-player.png" alt="Video player" width="50%">
+    <td align="center">
+      <img src="README/video-player.png" alt="Video player" width="100%">
       <br><strong>Media</strong>
       <br><sub>Enjoy your videos, music, and photos with controller-friendly playback that fits perfectly into XMB.</sub>
     </td>
