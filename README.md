@@ -2,9 +2,8 @@
 
 <img src="README/title.png" alt="Wave Launcher" width="1000">
 
-# Wave Launcher
-
 **A controller-first Android launcher inspired by the PlayStation 3 XrossMediaBar.**
+
 
 <p>
 <a href="https://github.com/WaveLauncher/WaveLauncher/releases"><img src="https://img.shields.io/badge/download-releases-085e5e?style=for-the-badge&labelColor=black" alt="Downloads"></a>&nbsp;
