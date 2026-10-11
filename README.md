@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="README/title.png" alt="Wave Launcher" width="460">
+<img src="README/github_banner.png" alt="Wave Launcher" width="460">
 
 # Wave Launcher
 
